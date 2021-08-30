@@ -13,6 +13,7 @@
 		2DDD6E4126D9DC94006D6C74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DDD6E3F26D9DC94006D6C74 /* Main.storyboard */; };
 		2DDD6E4326D9DC94006D6C74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DDD6E4226D9DC94006D6C74 /* Assets.xcassets */; };
 		2DDD6E4626D9DC94006D6C74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DDD6E4426D9DC94006D6C74 /* LaunchScreen.storyboard */; };
+		2DDD6E4E26D9DD00006D6C74 /* Back Here Again.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2DDD6E4D26D9DD00006D6C74 /* Back Here Again.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2DDD6E4226D9DC94006D6C74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DDD6E4526D9DC94006D6C74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2DDD6E4726D9DC94006D6C74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DDD6E4D26D9DD00006D6C74 /* Back Here Again.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Back Here Again.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		2DDD6E3826D9DC94006D6C74 /* Swift Practice # 68 Play Video On Next View */ = {
 			isa = PBXGroup;
 			children = (
+				2DDD6E4D26D9DD00006D6C74 /* Back Here Again.mp4 */,
 				2DDD6E3926D9DC94006D6C74 /* AppDelegate.swift */,
 				2DDD6E3B26D9DC94006D6C74 /* SceneDelegate.swift */,
 				2DDD6E3D26D9DC94006D6C74 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 				2DDD6E4626D9DC94006D6C74 /* LaunchScreen.storyboard in Resources */,
 				2DDD6E4326D9DC94006D6C74 /* Assets.xcassets in Resources */,
 				2DDD6E4126D9DC94006D6C74 /* Main.storyboard in Resources */,
+				2DDD6E4E26D9DD00006D6C74 /* Back Here Again.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
